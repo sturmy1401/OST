@@ -1,4 +1,4 @@
-#ICT40120 #ICTNWK420 #VirtualMachine #Networking #Scott #info
+#ICT40120 #ICTNWK420 #VirtualMachine #Networking #Scott #info #vmware
 
 ---
 
@@ -10,7 +10,7 @@ A "host" is a physical machine and a "guest" is the name given to a virtual mach
 
 The software that provides the host environment is called a "hypervisor", of which there are two types:
 
-Type 1 - Also called bare metal hypervisors, they don't need any other operating system to run on. Examples of this are [VMware ESXi](https://www.vmware.com/au/products/esxi-and-esx.html) and [ProxMox](https://www.proxmox.com/en/proxmox-ve).
+[Type 1](Type%201%20virtual%20machines.md) - Also called bare metal hypervisors, they don't need any other operating system to run on. Examples of this are [VMware ESXi](https://www.vmware.com/au/products/esxi-and-esx.html) and [ProxMox](https://www.proxmox.com/en/proxmox-ve).
 
 [Type 2](Type%202%20virtual%20machines.md) - Runs as an application inside of another operating system, and the application hosts its virtual machines. Examples include [VMware Workstation](https://www.vmware.com/au/products/workstation-pro.html) and [Virtual Box](https://www.virtualbox.org/) 
 

@@ -1,4 +1,4 @@
-#ICTNWK420 #VirtualMachine #Networking #Scott #howto
+#ICTNWK420 #VirtualMachine #Networking #Scott #howto #vmware 
 
 ---
 ## The Network Properties
