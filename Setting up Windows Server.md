@@ -18,6 +18,7 @@ To begin setting up a Windows Server 2022 / 2019 instance, you have to create a 
 8. Under `Network Adapter`, make sure to set the network to `Host-Only`.
 9. Under `New CD/DVD (SATA)`, set the connection to `Use ISO image file`, then select the `Browse` button to select your Windows Server ISO
 10. Select the `Close` button
+11. penis
 
 ### Powering on and Setting up
 
